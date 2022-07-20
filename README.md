@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Gustavo Nunes Machado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Oi , eu sou Gustavo Nunes Machado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Sempre%20aprendendo%20coisas%20novas&center=true&width=500&height=50"></a>
 </p>
@@ -7,13 +7,13 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavo1590&label=Profile%20views&color=0e75b6&style=plastic" alt="gustavo1590" /> </p>
 
-## 🔥 Streak Stats
+## 🔥 Estatísticas de sequência
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo1590&theme=algolia" alt="gustavo1590"  /></p>
 
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Linguagens de programação
 
 <p align="left"> 
   &emsp;
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-### 👉 Frontend Development
+### 👉 Desenvolvimento Front-end
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -53,11 +53,11 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Estatísticas do Github (expandir para visualizar) 
 
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 GitHub Estatísticas do perfil</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gustavo Machado Github Stats" src="https://github-readme-stats.vercel.app/api?username=gustavo1590&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -70,7 +70,7 @@
 
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>⚡ Atividade recente do GitHub</b></summary>
   <br/>
    <a href="https://github.com/gustavo1590"><img alt="Gustavo1590 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gustavo1590&custom_title=Gustavo%20Machado%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
@@ -79,7 +79,7 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Vamos nos conectar
 <p align="center">
 	<a href="mailto:gustavonmachado@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="E-mail"/></a>
 	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
