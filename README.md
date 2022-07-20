@@ -11,7 +11,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo1590&theme=algolia" alt="gustavo1590"  /></p>
 
 
-## 🛠️ My Skills
+## 🛠️ Minhas Skills
 
 ### 👉 Linguagens de programação
 
