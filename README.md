@@ -17,7 +17,7 @@
 
 <p align="left"> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" onclick="return ! window.open(this.href);">Open in a new window> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
   &emsp;
    <a href="https://www.python.org" target="_blank">
