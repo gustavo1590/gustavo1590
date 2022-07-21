@@ -82,7 +82,7 @@
 ## 🙋‍♀️ Vamos nos conectar
 <p align="center">
 	<a href="mailto:gustavonmachado@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="E-mail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/gustavo1590"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/gustavo-nunes-machado-3a9549ab/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/gustavo.machado.5872/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/gustavo_n_machado/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
