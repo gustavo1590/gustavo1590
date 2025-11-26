@@ -3,7 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Sempre%20aprendendo%20coisas%20novas&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Sou Junior. Gosto de codificar, projetar, inovar e experimentar. Sou uma pessoa entusiasmada e sociável que adora aceitar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias e espalhar conhecimento e positividade.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavo1590&label=Profile%20views&color=0e75b6&style=plastic" alt="gustavo1590" /> </p>
 
